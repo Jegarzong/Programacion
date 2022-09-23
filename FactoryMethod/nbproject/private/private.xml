@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/FactoryMain.java</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/DBFactory.java</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/META_INF/DBMySQL.properties</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/IDBAdapter.java</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/impl/MySQLDBAdapter.java</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/util/PropertiesUtil.java</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/META_INF/DBFactory.properties</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/entity/Product.java</file>
+            <file>file:/C:/Users/juang/OneDrive/Documentos/NetBeansProjects/FactoryMethod/src/oscarblancarte/ipd/factorymethod/DBType.java</file>
+        </group>
+    </open-files>
+</project-private>
